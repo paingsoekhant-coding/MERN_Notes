@@ -41,9 +41,3 @@ await connectDB().then(()=>{
         console.log("Server started on port:",PORT);
     });
 });
-
-
-
-// mZCSj929STaP5NUZ
-
-// mongodb+srv://babyboss7916:mZCSj929STaP5NUZ@cluster0.uhev138.mongodb.net/db_name?retryWrites=true&w=majority&appName=Cluster0
